@@ -1,2 +1,2 @@
 # CDN
-Adapting Object Detectors with Conditional Domain Normalization
+Code for "Adapting Object Detectors with Conditional Domain Normalization".
